@@ -1,0 +1,52 @@
+Manifest-Version: 1.0
+Main-Class: br.imd.distprog.gateway.GatewayApplication
+Class-Path: commons-configuration-1.10.jar spring-cloud-loadbalancer-4.0
+ .0-RC2.jar spring-boot-starter-reactor-netty-3.0.0.jar netty-transport-
+ native-unix-common-4.1.85.Final.jar spring-webflux-6.0.2.jar commons-jx
+ path-1.3.jar netty-codec-dns-4.1.85.Final.jar spring-jcl-6.0.2.jar spri
+ ng-expression-6.0.2.jar netty-handler-4.1.85.Final.jar stringtemplate-3
+ .2.1.jar bcutil-jdk15on-1.69.jar guava-19.0.jar spring-boot-devtools-3.
+ 0.0.jar spring-aop-6.0.2.jar httpclient5-5.1.4.jar netty-resolver-dns-c
+ lasses-macos-4.1.85.Final.jar log4j-to-slf4j-2.19.0.jar jakarta.ws.rs-a
+ pi-3.1.0.jar HdrHistogram-2.1.12.jar spring-boot-starter-validation-3.0
+ .0.jar jettison-1.4.0.jar jackson-module-parameter-names-2.14.1.jar net
+ ty-codec-socks-4.1.85.Final.jar jul-to-slf4j-2.0.4.jar netty-buffer-4.1
+ .85.Final.jar netty-resolver-dns-native-macos-4.1.85.Final-osx-x86_64.j
+ ar xmlpull-1.1.3.1.jar spring-core-6.0.2.jar spring-cloud-starter-4.0.0
+ -RC2.jar tomcat-embed-el-10.1.1.jar bcpkix-jdk15on-1.69.jar eureka-core
+ -2.0.0-rc.4.jar spring-cloud-commons-4.0.0-RC2.jar antlr-runtime-3.4.ja
+ r jboss-logging-3.5.0.Final.jar spring-cloud-gateway-server-4.0.0-RC2.j
+ ar spring-cloud-starter-config-4.0.0-RC2.jar spring-context-support-6.0
+ .2.jar slf4j-api-2.0.4.jar spring-boot-starter-json-3.0.0.jar spring-bo
+ ot-starter-logging-3.0.0.jar netty-transport-native-epoll-4.1.85.Final-
+ linux-x86_64.jar spring-cloud-starter-netflix-eureka-client-4.0.0-RC2.j
+ ar httpcore5-5.1.5.jar httpcore5-h2-5.1.5.jar netflix-eventbus-0.3.0.ja
+ r eureka-client-2.0.0-rc.4.jar spring-cloud-netflix-eureka-client-4.0.0
+ -RC2.jar jakarta.servlet-api-6.0.0.jar commons-lang-2.6.jar xstream-1.4
+ .18.jar mxparser-1.2.2.jar snakeyaml-1.33.jar netty-handler-proxy-4.1.8
+ 5.Final.jar spring-security-crypto-6.0.0.jar micrometer-commons-1.10.2.
+ jar spring-boot-actuator-autoconfigure-3.0.0.jar servo-core-0.12.21.jar
+  commons-codec-1.15.jar spring-beans-6.0.2.jar commons-math-2.2.jar bcp
+ rov-jdk15on-1.69.jar antlr-2.7.7.jar spring-cloud-context-4.0.0-RC2.jar
+  netty-common-4.1.85.Final.jar jackson-core-2.14.1.jar jakarta.validati
+ on-api-3.0.2.jar spring-boot-starter-actuator-3.0.0.jar spring-boot-act
+ uator-3.0.0.jar spring-security-rsa-1.0.11.RELEASE.jar spring-cloud-sta
+ rter-loadbalancer-4.0.0-RC2.jar gson-2.9.1.jar micrometer-core-1.10.2.j
+ ar evictor-1.0.0.jar jackson-datatype-jdk8-2.14.1.jar netty-codec-http-
+ 4.1.85.Final.jar spring-cloud-starter-gateway-4.0.0-RC2.jar netty-resol
+ ver-4.1.85.Final.jar httpclient-4.5.13.jar joda-time-2.3.jar netty-code
+ c-http2-4.1.85.Final.jar jackson-databind-2.14.1.jar netflix-infix-0.3.
+ 0.jar micrometer-observation-1.10.2.jar netty-transport-classes-epoll-4
+ .1.85.Final.jar reactor-netty-core-1.1.0.jar httpcore-4.4.15.jar logbac
+ k-classic-1.4.5.jar spring-boot-starter-cache-3.0.0.jar netty-transport
+ -4.1.85.Final.jar jackson-annotations-2.14.1.jar reactor-core-3.5.0.jar
+  reactor-netty-http-1.1.0.jar log4j-api-2.19.0.jar reactive-streams-1.0
+ .4.jar reactor-extra-3.5.0.jar spring-boot-autoconfigure-3.0.0.jar wood
+ stox-core-6.2.1.jar spring-boot-starter-webflux-3.0.0.jar netty-codec-4
+ .1.85.Final.jar spring-context-6.0.2.jar LatencyUtils-2.0.3.jar spring-
+ web-6.0.2.jar netty-resolver-dns-4.1.85.Final.jar spring-boot-3.0.0.jar
+  stax2-api-4.2.1.jar logback-core-1.4.5.jar jackson-datatype-jsr310-2.1
+ 4.1.jar spring-cloud-config-client-4.0.0-RC2.jar hibernate-validator-8.
+ 0.0.Final.jar jakarta.inject-api-2.0.1.jar jakarta.annotation-api-2.1.1
+ .jar classmate-1.5.1.jar spring-boot-starter-3.0.0.jar
+
