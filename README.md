@@ -11,3 +11,11 @@ Prof. Dr. Nélio Alessandro Azevedo Cacho.
 - Utiliza load balancer
 - Utiliza a estratégia de retry
 - Utiliza actuator para saúde do serviço
+
+### Microserviços 
+- Cloud function
+- Discovery service
+- Finance
+- Gateway
+- Inventory Management
+- Procurement
