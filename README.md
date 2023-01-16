@@ -19,3 +19,4 @@ Prof. Dr. Nélio Alessandro Azevedo Cacho.
 - Gateway
 - Inventory Management
 - Procurement
+- Config Server
